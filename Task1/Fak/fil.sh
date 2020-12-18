@@ -2,7 +2,7 @@
 peos=6969
 echo "6969 me: " 
 read -r  INPUT
-if [ "" -eq  ] 
+if [ "$INPUT" -eq  $peos ] 
 then
     echo "Thanks for 6969ing me"
 
