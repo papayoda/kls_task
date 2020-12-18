@@ -9,7 +9,7 @@ echo to edw einai edw: $(pwd)
 mkdir Fak
 cd Fak
 touch fil.sh
-cat > /c/Users/dvout/OneDrive/Documents/Bash/Fak/fil.sh <<END
+cat > /c/Users/dvout/OneDrive/Documents/Bash/Task1/Fak/fil.sh <<END
 #!/bin/bash
 peos=6969
 echo "6969 me: " 
